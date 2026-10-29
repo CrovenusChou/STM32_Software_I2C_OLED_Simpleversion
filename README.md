@@ -1,0 +1,2 @@
+# STM32_Software_I2C_OLED_Simpleversion
+基于STM32 HAL库的SSD1315软件I2C驱动，有效避免HAL_BUSY
